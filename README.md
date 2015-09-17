@@ -5,7 +5,7 @@ This is a repository to help recreate the microbiota analysis from the mansucrip
 
 The script below to recreate the analysis will download and install all software dependencies using Anaconda and subsequently complete the analysis. The final output is a file to upload to MaAsLin on Galaxy to identify correlations between OTUs and associated metadata.
 
-Due to licensing issues, USEARCH could not be included as a dependency that is automatically downloaded and installed. To obtain a download link, go to the USEARCH download page and select version USEARCH v7.0.1090 for linux. A link (expires after 30 days) will be sent to the provided email. Use the link as an argument for shell script below.
+**Due to licensing issues, USEARCH could not be included as a dependency that is automatically downloaded and installed. To obtain a download link, go to the USEARCH download page and select version USEARCH v7.0.1090 for linux. A link (expires after 30 days) will be sent to the provided email. Use the link as an argument for shell script below.**
 
 To begin, simply clone this repository and run the recreate_analysis.sh script (provide the link to download your licensed USEARCH version as an argument for setup.sh):
 
