@@ -10,7 +10,9 @@ The script below to recreate the analysis will download and install all software
 To begin, simply clone this repository and run the recreate_analysis.sh script (provide the link to download your licensed USEARCH version as an argument for setup.sh):
 
 git clone https://github.com/chrisLanderson/2015_PNAS_Xie_et_al.git
+
 cd 2015_PNAS_Xie_et_al
+
 ./recreate_analysis.sh usearch_link
 
 Anaconda is downloaded first and prompts you during installataion of the dependencies for the analysis, such as QIIME. The prompts are as follows:
@@ -23,4 +25,4 @@ No to prepend anaconda to your path. Choosing yes should not impact the installa
 Will be asked a few times if you wish to proceed with installing the packages…agree to it.
 
 
-After installation the analysis will begin and eventually generate an output (wood.otu_table.upload_maaslin.txt) to be used by Maaslin on Galaxy to identify correlations between OTUs and the treatments
+After installation the analysis will begin and eventually generate an output (wood.otu_table.upload_maaslin.txt) to be used as an input for MaAsLin on Galaxy to identify correlations between OTUs and metadata.
