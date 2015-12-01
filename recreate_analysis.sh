@@ -102,6 +102,6 @@ sort_otu_table.py -i wood.otu_table.for_maaslin.biom -o wood.otu_table.for_maasl
 R CMD BATCH setup_maaslin.R
 
 printf "\n\n\nAnalysis complete, the file wood.otu_table.upload_maaslin.txt was used to upload to MaAsLin (default parameters) to identify correlations - http://huttenhower.sph.harvard.edu/galaxy/\n\n"
-printf "Output - wood_maaslin_output.txt - is available in the cloned github repository or at https://github.com/chrisLanderson/2015_PNAS_Xie_et_al\n\n"
+printf "Output - wood_maaslin_output.txt - is available in the cloned github repository or at https://github.com/chrisLanderson/2016_Xie_et_al\n\n"
 
 
