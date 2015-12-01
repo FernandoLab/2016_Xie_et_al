@@ -1,5 +1,5 @@
 ##Introduction
-This is a repository to help recreate the microbiota analysis from the mansucript “Obesity, Ovarian Inflammation and Altered Gut Microbial Composition are Associated with Increased Oocyte Specific Transcripts.”  
+This is a repository to help recreate the microbiota analysis from the mansucript “Obesity-Dependent Increases in Oocyte-Specific mRNAs are associated with Increases in Pro-Inflammatory Signaling and Gut Microbial Abundance of Lachnospiraceae.”  
 
 ##To recreate the microbiota analysis:
 
