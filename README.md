@@ -9,8 +9,8 @@ The script below to recreate the analysis will download and install all software
 
 To begin, simply clone this repository and run the recreate_analysis.sh script (provide the link to download your licensed USEARCH version as an argument for setup.sh):
 
-* git clone https://github.com/chrisLanderson/2015_PNAS_Xie_et_al.git
-* cd 2015_PNAS_Xie_et_al
+* git clone https://github.com/chrisLanderson/2016_Xie_et_al.git
+* cd 2016_Xie_et_al
 * ./recreate_analysis.sh usearch_link
 
 Anaconda is downloaded first and prompts you during installataion of the dependencies for the analysis, such as QIIME. The prompts are as follows:
